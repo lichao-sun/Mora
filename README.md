@@ -1,5 +1,10 @@
 # Mora: More like a Sora -- Open-Source and Personalized Text-to-Video Generation
+Zhengqing Yuan❁, Ruoxi Chen❁, Zhaoxu Li❁, Haolong Jia❁, Lifang He❋, Chi Wang*, [Lichao Sun](https://lichao-sun.github.io/)❋, 
 
+
+❁Visiting Students at LAIR Lab, Lehigh University
+❋Lehigh University
+*Microsoft Research
 ## 📰News
 
 🚀️ Mar 18: Our paper "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework" is released!
