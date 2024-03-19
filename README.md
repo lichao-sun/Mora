@@ -1,5 +1,7 @@
 # Mora
 
+Mora: Enabling Generalist Video Generation via A Multi-Agent Framework
+
 ## News
 
 🚀️ Mar 18: Our paper is released!
@@ -25,8 +27,8 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 ### Text-to-video generation
 <table class="left">
 <tr>
-  <th align="left"><b>Input Prompt</b></th>
-  <th align="left"><b>Output Video</b></th>
+  <th align="left"><b>Input prompt</b></th>
+  <th align="left"><b>Output video</b></th>
 </tr>
 <tr>
   <td>A vibrant coral reef teeming with life under the crystal-clear blue ocean, with colorful fish swimming among the coral, rays of sunlight filtering through the water, and a gentle current moving the sea plants. </td>
@@ -43,8 +45,101 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </table>
 
 ### Text-conditional image-to-video generation
+<table class="left">
+<tr>
+  <th align="left"><b>Input prompt</b></th>
+  <th align="left"><b>Input image</b></th>
+  <th align="left"><b>Mora generated Video</b></th>
+  <th align="left"><b>Sora generated Video</b></th>
+</tr>
+<tr>
+  <td>Monster Illustration in flat design style of a diverse family of monsters. The group includes a furry brown monster, a sleek black monster with antennas, a spotted green monster, and a tiny polka-dotted monster, all interacting in a playful environment. </td>
+  <td><img src="./image/input1.jpg" width="100%" height="auto"></td>
+  <td><img src="./image/task2_demo1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/sora_demo1.gif" width="100%" height="auto"></td>
+</tr>
+<tr>
+  <td>An image of a realistic cloud that spells “SORA”.</td>
+  <td><img src="./image/input2.jpg" width="100%" height="auto"></td>
+  <td><img src="./image/task2_demo2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/sora_demo2.gif" width="100%" height="auto"></td>
+</tr>
+</table>
 
-### 
+### Extend generated video
+
+<table class="left">
+<tr>
+  <th align="left"><b>Original video</b></th>
+  <th align="left"><b>Mora extended video</b></th>
+  <th align="left"><b>Sora extended video</b></th>
+</tr>
+<tr>
+  <td><img src="./image/original video.gif" width="100%" height="auto"></td>
+  <td><img src="./image/mora_task3.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task3_sora.gif" width="100%" height="auto"></td>
+</tr>
+</table>
+
+### Video-to-video editing
+
+<table class="left">
+<tr>
+  <th align="left"><b>Instruction</b></th>
+  <th align="left"><b>Original video</b></th>
+  <th align="left"><b>Mora edited Video</b></th>
+  <th align="left"><b>Sora edited Video</b></th>
+</tr>
+<tr>
+  <td>Change the setting to the 1920s with an old school car. make sure to keep the red color.</td>
+  <td><img src="./image/task4_original.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task4_mora_1920.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task4_sora_1920.gif" width="100%" height="auto"></td>
+</tr>
+<tr>
+  <td>Put the video in space with a rainbow road</td>
+  <td><img src="./image/task4_original.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task4_mora_rainbow.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task4_sora_rainbow.gif" width="100%" height="auto"></td>
+</tr>
+</table>
+
+### Connect Video
+
+<table class="left">
+<tr>
+  <th align="left"><b>Input previous video</b></th>
+  <th align="left"><b>Input next video</b></th>
+  <th align="left"><b>Output connect Video</b></th>
+</tr>
+<tr>
+  <td><img src="./image/task5_mora1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task5_mora2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task5_mora.gif" width="100%" height="auto"></td>
+</tr>
+<tr>
+  <td><img src="./image/task5_sora1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task5_sora2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task5_sora.gif" width="100%" height="auto"></td>
+</tr>
+</table>
+
+### Simulate digital worlds
+
+<table class="left">
+<tr>
+  <th align="left"><b>Mora simulating video</b></th>
+  <th align="left"><b>Sora simulating video</b></th>
+</tr>
+<tr>
+  <td><img src="./image/task6_mora1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task6_sora1.gif" width="100%" height="auto"></td>
+</tr>
+<tr>
+  <td><img src="./image/task6_mora2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task6_sora2.gif" width="100%" height="auto"></td>
+</tr>
+</table>
 
 ## Getting Started
 Coming soon
