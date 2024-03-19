@@ -24,6 +24,24 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 
 ### Text-to-video generation
 table 3 line, prompt, Mora ouotput video, Sora output video
+<table class="center">
+<tr>
+  <td style="text-align:center;width: 50%" colspan="1"><b>Input Image</b></td>
+  <td style="text-align:center;width: 50%" colspan="1"><b>Output Video</b></td>
+</tr>
+<tr>
+  <td>A vibrant coral reef teeming with life under the crystal-clear blue ocean, with colorful fish swimming among the coral, rays of sunlight filtering through the water, and a gentle current moving the sea plants.</td>
+  <td><img src=></td>
+</tr>
+<tr>
+  <td>A majestic mountain range covered in snow, with the peaks touching the clouds and a crystal-clear lake at its base, reflecting the mountains and the sky, creating a breathtaking natural mirror.</td>
+  <td><img src=></td>
+</tr>
+  <tr>
+  <td>In the middle of a vast desert, a golden desert city appears on the horizon, its architecture a blend of ancient Egyptian and futuristic elements.The city is surrounded by a radiant energy barrier, while in the air, seve</td>
+  <td><img src=></td>
+</tr>
+</table>
 
 ### Text-conditional image-to-video generation
 
