@@ -1,5 +1,4 @@
-# Mora: More like a Sora
-# Open-Source and Personalized Text-to-Video Generation
+# Mora: More like a Sora -- Open-Source and Personalized Text-to-Video Generation
 
 ## News
 
