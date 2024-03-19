@@ -1,4 +1,4 @@
-# Mora: More like a Sora, Personalized Video Generation with Your Own Design 
+# Mora: More like a Sora, Open-Source and Personalized Video Generation with Your Own Design 
 
 ## News
 
