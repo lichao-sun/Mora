@@ -5,11 +5,15 @@
 🚀️ Mar 18: Our paper is released!
 
 ## Demo
-<img src="" width="250" height="250"/>
+<p align="left">
+  <img src="./image/demo1.gif" width="49%" height="auto" />
+  <img src="./image/demo2.gif" width="49%" height="auto" />
+  <img src="./image/demo3.gif" width="49%" height="auto" />
+  <img src="./image/demo4.gif" width="49%" height="auto" />
+</p>
 
 ## What is Mora
 Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.
-
 ![test image](/image/method.jpg)
 - **Multi-Agent Collaboration**: Utilizes several advanced visual AI agents, each specializing in different aspects of the video generation process, to achieve high-quality outcomes across various tasks.
 - **Broad Spectrum of Tasks**: Capable of performing text-to-video generation, text-conditional image-to-video generation, extending generated videos, video-to-video editing, connecting videos, and simulating digital worlds, thereby covering an extensive range of video generation applications.
