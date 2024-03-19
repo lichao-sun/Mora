@@ -21,7 +21,7 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 - **Proven Performance**: Experimental results demonstrate Mora's ability to achieve performance that is close to that of Sora in various tasks, making it a compelling open-source alternative for the video generation domain.
 
 ## Results
-
+![Task](/image/task.jpg)
 ### Text-to-video generation
 <table class="left">
 <tr>
@@ -142,3 +142,20 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 ## Getting Started
 Coming soon
 ## Citation
+```
+@article{liu2024sora,
+  title={Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models},
+  author={Liu, Yixin and Zhang, Kai and Li, Yuan and Yan, Zhiling and Gao, Chujie and Chen, Ruoxi and Yuan, Zhengqing and Huang, Yue and Sun, Hanchi and Gao, Jianfeng and others},
+  journal={arXiv preprint arXiv:2402.17177},
+  year={2024}
+}
+```
+```
+@misc{openai2024sorareport,
+  title={Video generation models as world simulators},
+  author={OpenAI},
+  year={2024},
+  howpublished={https://openai.com/research/video-generation-models-as-world-simulators},
+}
+```
+
