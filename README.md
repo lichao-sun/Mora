@@ -1,10 +1,8 @@
 # Mora: More like a Sora, Personalized Video Generation with Your Own Design 
 
-Mora: Enabling Generalist Video Generation via A Multi-Agent Framework
-
 ## News
 
-🚀️ Mar 18: Our paper is released!
+🚀️ Mar 18: Our paper "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework" is released!
 
 ## Demo
 <p align="left">
