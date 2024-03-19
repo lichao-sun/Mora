@@ -1,4 +1,5 @@
-# Mora: More like a Sora, Open-Source and Personalized Text-to-Video Generation with Your Own Design 
+# Mora: More like a Sora
+# Open-Source and Personalized Text-to-Video Generation
 
 ## News
 
