@@ -4,7 +4,7 @@ Zhengqing Yuan^1, Ruoxi Chen^1, Zhaoxu Li^1, Haolong Jia^1, Lifang He^1, Chi Wan
 1. Lehigh University, 2. Microsoft Research
 ## 📰News
 
-🚀️ Mar 18: Our paper "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework" is released!
+🚀️ Mar 19: Our paper "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework" is released!
 
 ## 🎥Demo
 <p align="left">
