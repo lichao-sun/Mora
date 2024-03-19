@@ -1,10 +1,10 @@
 # Mora: More like a Sora -- Open-Source and Personalized Text-to-Video Generation
 
-## News
+## 📰News
 
 🚀️ Mar 18: Our paper "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework" is released!
 
-## Demo
+## 🎥Demo
 <p align="left">
   <img src="./image/demo1.gif" width="49%" height="auto" />
   <img src="./image/demo2.gif" width="49%" height="auto" />
@@ -14,6 +14,7 @@
 
 ## What is Mora
 Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.
+![Task](/image/task.jpg)
 ![test image](/image/method.jpg)
 - **Multi-Agent Collaboration**: Utilizes several advanced visual AI agents, each specializing in different aspects of the video generation process, to achieve high-quality outcomes across various tasks.
 - **Broad Spectrum of Tasks**: Capable of performing text-to-video generation, text-conditional image-to-video generation, extending generated videos, video-to-video editing, connecting videos, and simulating digital worlds, thereby covering an extensive range of video generation applications.
@@ -21,7 +22,7 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 - **Proven Performance**: Experimental results demonstrate Mora's ability to achieve performance that is close to that of Sora in various tasks, making it a compelling open-source alternative for the video generation domain.
 
 ## Results
-![Task](/image/task.jpg)
+
 ### Text-to-video generation
 <table class="left">
 <tr>
@@ -30,15 +31,15 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </tr>
 <tr>
   <td>A vibrant coral reef teeming with life under the crystal-clear blue ocean, with colorful fish swimming among the coral, rays of sunlight filtering through the water, and a gentle current moving the sea plants. </td>
-  <td><img src="./image/task_1_demo_1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task_1_demo_1.gif" width=480 height="auto"></td>
 </tr>
 <tr>
   <td>A majestic mountain range covered in snow, with the peaks touching the clouds and a crystal-clear lake at its base, reflecting the mountains and the sky, creating a breathtaking natural mirror.</td>
-  <td><img src="./image/task_1_demo_2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task_1_demo_2.gif" width=480 height="auto"></td>
 </tr>
   <tr>
   <td>In the middle of a vast desert, a golden desert city appears on the horizon, its architecture a blend of ancient Egyptian and futuristic elements.The city is surrounded by a radiant energy barrier, while in the air, seve</td>
-  <td><img src="./image/task_1_demo_3.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task_1_demo_3.gif" width=480 height="auto"></td>
 </tr>
 </table>
 
@@ -52,15 +53,15 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </tr>
 <tr>
   <td>Monster Illustration in flat design style of a diverse family of monsters. The group includes a furry brown monster, a sleek black monster with antennas, a spotted green monster, and a tiny polka-dotted monster, all interacting in a playful environment. </td>
-  <td><img src="./image/input1.jpg" width="100%" height="auto"></td>
-  <td><img src="./image/task2_demo1.gif" width="100%" height="auto"></td>
-  <td><img src="./image/sora_demo1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/input1.jpg" width="100%" height=135></td>
+  <td><img src="./image/task2_demo1.gif" width=240 height=135></td>
+  <td><img src="./image/sora_demo1.gif" width=240 height=135></td>
 </tr>
 <tr>
   <td>An image of a realistic cloud that spells “SORA”.</td>
-  <td><img src="./image/input2.jpg" width="100%" height="auto"></td>
-  <td><img src="./image/task2_demo2.gif" width="100%" height="auto"></td>
-  <td><img src="./image/sora_demo2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/input2.jpg" width=1200 height=135></td>
+  <td><img src="./image/task2_demo2.gif" width=240 height=135></td>
+  <td><img src="./image/sora_demo2.gif" width=240 height=135></td>
 </tr>
 </table>
 
@@ -73,9 +74,9 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
   <th align="left"><b>Sora extended video</b></th>
 </tr>
 <tr>
-  <td><img src="./image/original video.gif" width="100%" height="auto"></td>
-  <td><img src="./image/mora_task3.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task3_sora.gif" width="100%" height="auto"></td>
+  <td><img src="./image/original video.gif" width=330 height="auto"></td>
+  <td><img src="./image/mora_task3.gif" width=330 height="auto"></td>
+  <td><img src="./image/task3_sora.gif" width=330 height="auto"></td>
 </tr>
 </table>
 
@@ -90,15 +91,15 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </tr>
 <tr>
   <td>Change the setting to the 1920s with an old school car. make sure to keep the red color.</td>
-  <td><img src="./image/task4_original.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task4_mora_1920.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task4_sora_1920.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task4_original.gif" width=260 height="auto"></td>
+  <td><img src="./image/task4_mora_1920.gif" width=260 height="auto"></td>
+  <td><img src="./image/task4_sora_1920.gif" width=260 height="auto"></td>
 </tr>
 <tr>
   <td>Put the video in space with a rainbow road</td>
-  <td><img src="./image/task4_original.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task4_mora_rainbow.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task4_sora_rainbow.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task4_original.gif" width=260 height="auto"></td>
+  <td><img src="./image/task4_mora_rainbow.gif" width=260 height="auto"></td>
+  <td><img src="./image/task4_sora_rainbow.gif" width=260 height="auto"></td>
 </tr>
 </table>
 
@@ -111,14 +112,14 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
   <th align="left"><b>Output connect Video</b></th>
 </tr>
 <tr>
-  <td><img src="./image/task5_mora1.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task5_mora2.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task5_mora.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task5_mora1.gif" width=320 height="auto"></td>
+  <td><img src="./image/task5_mora2.gif" width=320 height="auto"></td>
+  <td><img src="./image/task5_mora.gif" width=320 height="auto"></td>
 </tr>
 <tr>
-  <td><img src="./image/task5_sora1.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task5_sora2.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task5_sora.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task5_sora1.gif" width=320 height="auto"></td>
+  <td><img src="./image/task5_sora2.gif" width=320 height="auto"></td>
+  <td><img src="./image/task5_sora.gif" width=320 height="auto"></td>
 </tr>
 </table>
 
@@ -130,17 +131,17 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
   <th align="left"><b>Sora simulating video</b></th>
 </tr>
 <tr>
-  <td><img src="./image/task6_mora1.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task6_sora1.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task6_mora1.gif" width=475 height="auto"></td>
+  <td><img src="./image/task6_sora1.gif" width=475 height="auto"></td>
 </tr>
 <tr>
-  <td><img src="./image/task6_mora2.gif" width="100%" height="auto"></td>
-  <td><img src="./image/task6_sora2.gif" width="100%" height="auto"></td>
+  <td><img src="./image/task6_mora2.gif" width=475 height="auto"></td>
+  <td><img src="./image/task6_sora2.gif" width=475 height="auto"></td>
 </tr>
 </table>
 
 ## Getting Started
-Coming soon
+* [ ] Coming soon
 ## Citation
 ```
 @article{liu2024sora,
