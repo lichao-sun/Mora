@@ -1,4 +1,4 @@
-# Mora
+# Mora: More like a Sora, Personalized Sora with Your Own Design 
 
 Mora: Enabling Generalist Video Generation via A Multi-Agent Framework
 
