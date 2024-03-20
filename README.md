@@ -10,7 +10,7 @@
 ## What is Mora
 Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.
 ![Task](/image/task.jpg)
-## 🎥Demo (1024×576 resolution, 12 Second!)
+## 🎥Demo (1024×576 resolution, 12 Seconds and more!)
 <p align="left">
   <img src="./image/demo1.gif" width="49%" height="auto" />
   <img src="./image/demo2.gif" width="49%" height="auto" />
