@@ -1,5 +1,7 @@
 # Mora: More like a Sora, Open-Source and Personalized Text-to-Video Generation
 > 🔍 See our newest Video Generation paper: [**"Mora: Enabling Generalist Video Generation via A Multi-Agent Framework"**](https://github.com/lichao-sun/Mora) [![Paper](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightblue?style=flat-square)](https://github.com/lichao-sun/Mora) [![GitHub](https://img.shields.io/badge/Gtihub-%F0%9F%8E%93-lightblue?style=flat-square))](https://github.com/lichao-sun/Mora)
+> 
+> 📧 Please let us know if you find a mistake or have any suggestions by e-mail: lis221@lehigh.edu
 
 ## 📰News
 
