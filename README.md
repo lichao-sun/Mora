@@ -1,4 +1,4 @@
-# Mora: More like a Sora -- Open-Source and Personalized Text-to-Video Generation
+# Mora: More like a Sora, Open-Source and Personalized Text-to-Video Generation
 Zhengqing Yuan^1, Ruoxi Chen^1, Zhaoxu Li^1, Haolong Jia^1, Lifang He^1, Chi Wang^2, [Lichao Sun](https://lichao-sun.github.io/)^1
 
 1. Lehigh University, 2. Microsoft Research
