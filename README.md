@@ -5,7 +5,7 @@
 
 ## 📰News
 
-🚀️ Mar 20: Our paper "Mora: Enabling Generalist Video Generation via A Multi-Agent Framework" is released!
+🚀️ Mar 20: Our paper "[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248)" is released!
 
 ## What is Mora
 Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.
@@ -150,10 +150,18 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 * [ ] Coming soon
 ## Citation
 ```
+@article{yuan2024mora,
+  title={Mora: Enabling Generalist Video Generation via A Multi-Agent Framework},
+  author={Yuan, Zhengqing and Chen, Ruoxi and Li, Zhaoxu and Jia, Haolong and He, Lifang and Wang, Chi and Sun, Lichao},
+  journal={arXiv preprint arXiv:2402.17177},
+  year={2024}
+}
+```
+```
 @article{liu2024sora,
   title={Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models},
   author={Liu, Yixin and Zhang, Kai and Li, Yuan and Yan, Zhiling and Gao, Chujie and Chen, Ruoxi and Yuan, Zhengqing and Huang, Yue and Sun, Hanchi and Gao, Jianfeng and others},
-  journal={arXiv preprint arXiv:2402.17177},
+  journal={arXiv preprint arXiv:2403.13248},
   year={2024}
 }
 ```
