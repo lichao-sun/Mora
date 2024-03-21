@@ -147,7 +147,8 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </table>
 
 ## Getting Started
-🍀[Colab demo](./demo.ipynb)
+Code will be release as soon as possible!
+
 ## Citation
 ```
 @article{yuan2024mora,
