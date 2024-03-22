@@ -147,7 +147,7 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </table>
 
 ## Getting Started
-Code will be release as soon as possible!
+Code will be released as soon as possible!
 
 ## Citation
 ```
