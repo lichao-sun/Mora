@@ -58,7 +58,7 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
   <th align="left"><b>Sora generated Video</b></th>
 </tr>
 <tr>
-  <td>Monster Illustration in flat design style of a diverse family of monsters. The group includes a furry brown monster, a sleek black monster with antennas, a spotted green monster, and a tiny polka-dotted monster, all interacting in a playful environment. </td>
+  <td>Monster Illustration in the flat design style of a diverse family of monsters. The group includes a furry brown monster, a sleek black monster with antennas, a spotted green monster, and a tiny polka-dotted monster, all interacting in a playful environment. </td>
   <td><img src="./image/input1.jpg" width=600 height=90></td>
   <td><img src="./image/task2_demo1.gif" width=160 height=90></td>
   <td><img src="./image/sora_demo1.gif" width=160 height=90></td>
@@ -109,7 +109,7 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 </tr>
 </table>
 
-### Connect Video
+### Connect videos
 
 <table class="left">
 <tr>
