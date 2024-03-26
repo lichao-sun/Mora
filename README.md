@@ -12,7 +12,7 @@ Mora is a multi-agent framework designed to facilitate generalist video generati
 ![Task](/image/task.jpg)
 
 ## 📹Demo for Artist Creation
-Based on OpenAI [Sora: First Impressions](https://openai.com/blog/sora-first-impressions), We utilize Mora to generate Shy kids video. Even though we have reached the same level as Sora in terms of video duration, 80s, we still have a significant gap in terms of resolution, object consistency, motion smoothness, etc.
+Inspired on OpenAI [Sora: First Impressions](https://openai.com/blog/sora-first-impressions), We utilize Mora to generate Shy kids video. Even though we have reached the same level as Sora in terms of video duration, 80s, we still have a significant gap in terms of resolution, object consistency, motion smoothness, etc.
 <p align="left">
   <img src="./image/demo_shy_kids.gif" width="100%" height="auto" />
 </p>
