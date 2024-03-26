@@ -10,6 +10,13 @@
 ## What is Mora
 Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.
 ![Task](/image/task.jpg)
+
+## 📹Demo for Artist Creation
+Based on OpenAI [Sora: First Impressions](https://openai.com/blog/sora-first-impressions), We utilize Mora to generate Shy kids video. Even though we have reached the same level as Sora in terms of video duration, 80s, we still have a significant gap in terms of resolution, object consistency, motion smoothness, etc.
+<p align="left">
+  <img src="./image/demo_shy_kids.gif" width="100%" height="auto" />
+</p>
+
 ## 🎥Demo (1024×576 resolution, 12 seconds and more!)
 <p align="left">
   <img src="./image/demo1.gif" width="49%" height="auto" />
