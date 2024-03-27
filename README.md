@@ -17,6 +17,9 @@ Inspired by OpenAI [Sora: First Impressions](https://openai.com/blog/sora-first-
   <img src="./image/demo_shy_kids.gif" width="100%" height="auto" />
 </p>
 
+<video src="./image/demo_shy_kids.mp4" controls width="100%" height="auto"></video>
+
+
 ## 🎥Demo (1024×576 resolution, 12 seconds and more!)
 <p align="left">
   <img src="./image/demo1.gif" width="49%" height="auto" />
