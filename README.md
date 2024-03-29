@@ -3,7 +3,7 @@
 > 
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: lis221@lehigh.edu
 
-## 📰News
+## 📰 News
 
 🚀️ Mar 20: Our paper "[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248)" is released!
 
@@ -11,13 +11,13 @@
 Mora is a multi-agent framework designed to facilitate generalist video generation tasks, leveraging a collaborative approach with multiple visual agents. It aims to replicate and extend the capabilities of OpenAI's Sora.
 ![Task](/image/task.jpg)
 
-## 📹Demo for Artist Creation
+## 📹 Demo for Artist Creation
 Inspired by OpenAI [Sora: First Impressions](https://openai.com/blog/sora-first-impressions), we utilize Mora to generate Shy kids video. Even though Mora has reached the similar level as Sora in terms of video duration, 80s, Mora still has a significant gap in terms of resolution, object consistency, motion smoothness, etc.
 
 https://github.com/JHL328/test/assets/55661930/abe276f7-12d3-4d24-aff3-7474296e854e
 
 
-## 🎥Demo (1024×576 resolution, 12 seconds and more!)
+## 🎥 Demo (1024×576 resolution, 12 seconds and more!)
 <p align="left">
   <img src="./image/demo1.gif" width="49%" height="auto" />
   <img src="./image/demo2.gif" width="49%" height="auto" />
