@@ -1,0 +1,50 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.11" />
+            <item index="1" class="java.lang.String" itemvalue="3.12" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="1" class="java.lang.String" itemvalue="torch" />
+            <item index="2" class="java.lang.String" itemvalue="torchvision" />
+            <item index="3" class="java.lang.String" itemvalue="Pillow" />
+            <item index="4" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="5" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="6" class="java.lang.String" itemvalue="scipy" />
+            <item index="7" class="java.lang.String" itemvalue="phonemizer" />
+            <item index="8" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="9" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="10" class="java.lang.String" itemvalue="librosa" />
+            <item index="11" class="java.lang.String" itemvalue="Cython" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="collections" />
+          <option value="int.append" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
