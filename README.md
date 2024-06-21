@@ -4,7 +4,7 @@
 > 📧 Please let us know if you find a mistake or have any suggestions by e-mail: lis221@lehigh.edu
 
 ## 📰 News
-
+🚀️ Jun 13: Our code is released!
 🚀️ Mar 20: Our paper "[Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/abs/2403.13248)" is released!
 
 ## What is Mora
